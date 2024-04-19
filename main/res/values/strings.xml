@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PapaJohns</string>
+    <string name="pizzas">Pizzas</string>
+    <string name="pasta">Pasta</string>
+    <string name="stores">Stores</string>
+    <string name="create_order">Create Order</string>
+    <string name="order">Заказать</string>
+    <string name="order_header">Order</string>
+</resources>

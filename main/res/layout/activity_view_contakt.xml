@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ViewContaktActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textViewHederCotntact"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#8BCF8E"
+        android:text="Contacts"
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:textSize="42sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imageViewCotntact"
+        android:layout_width="wrap_content"
+        android:layout_height="300dp"
+        android:layout_margin="8dp"
+        app:srcCompat="@drawable/a159a80338bf7e2745d8efb3e3a8e05ff" />
+
+    <TextView
+        android:id="@+id/textViewCotntact"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:textSize="24dp"
+        android:text="TextView" />
+
+</LinearLayout>
